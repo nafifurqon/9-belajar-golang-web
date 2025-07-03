@@ -3,7 +3,6 @@ package uploadfile
 import (
 	"bytes"
 	"embed"
-	_ "embed"
 	"fmt"
 	"html/template"
 	"io"
